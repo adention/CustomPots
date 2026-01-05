@@ -1,6 +1,6 @@
 ---
 name: CustomPots
-author: cultureiswqr
+author: adention
 version: 1.0.0
 api: 5.0.0
 main: potions\CustomPots
